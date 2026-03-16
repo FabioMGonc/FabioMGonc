@@ -1,16 +1,45 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMGonc&layout=donut)](https://github.com/FabioMGonc/github-readme-stats)
 
-<!--
-**FabioMGonc/FabioMGonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋
 
-Here are some ideas to get you started:
+Sou **Fábio**, desenvolvedor JavaScript com foco em **full-stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste perfil você encontrará **projetos de estudo, experimentos e projetos pessoais**, onde exploro tecnologias do ecossistema JavaScript e aprofundo meus conhecimentos em desenvolvimento web.
+
+## 🚀 Stack
+
+### Front-end
+- React
+- Next.js
+- Vite
+- HTML
+- CSS
+- Tailwind
+
+### Back-end
+- Node.js
+- Express
+
+### Banco de dados
+- PostgreSQL
+- NoSQL
+
+## 📚 Atualmente estudando
+
+- Arquitetura de APIs
+- Aplicações em tempo real (WebSockets)
+- Estruturação de aplicações full-stack
+- Cloud e deploy
+
+## 🔧 Projetos
+
+Aqui você encontrará projetos como:
+
+- aplicações **full-stack**
+- **APIs REST**
+- aplicações **real-time com WebSockets**
+- **experimentos e estudos** com novas tecnologias
+
+## 📫 Contato
+
+- LinkedIn: [(https://www.linkedin.com/in/fabio-m-gonc/)
